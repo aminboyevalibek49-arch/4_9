@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "burger",
+    "price": "25000",
+    "desc": "yaxshi"
+  },
+  {
+    "title": "lavash",
+    "price": "15000",
+    "desc": "mazali"
+  }
+]
